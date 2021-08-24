@@ -7,7 +7,7 @@ hr
 	{
 		border-color: #87216a;
 		border-style: none none dotted;
-		border-width: 5px;
+		border-width: 6px;
 		width: 5%;
 			
 	}
@@ -22,10 +22,12 @@ p
 	}
 h3
 	{
+		text-align: center;
 		color: #87216a;
 	}
 h2
 	{
+		text-align: center;
 		color: #87216a;
 	}
 li
@@ -36,3 +38,19 @@ td
 	{
 		color: #a82984;
 	}
+img:hover
+{
+	background-color: black;
+}
+img
+{
+	border-radius: 300%;
+	width: 200px;
+	height: auto;
+
+}
+#summ
+{
+	width: 5%;
+	height: auto;
+}
